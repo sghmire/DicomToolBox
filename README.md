@@ -31,7 +31,7 @@
 
 ### 🛠️ Installation
 
-1. Download the latest release `.exe` file from the [Releases](https://github.com/sghmire/DicomToolBox/releases) section (or clone and build the project in Visual Studio).
+1. Download the latest release `.exe` file.
 2. Double-click the `.exe` file to launch the app.
 3. You're ready to go — no setup needed.
 
