@@ -9,7 +9,7 @@
 ## ✨ Features
 
 - 🔍 **View DICOM Images**  
-  Load `.dcm` or `.tiff` files and explore DICOM slices and metadata.
+  Load `.dcm` files and explore DICOM slices and metadata.
 
 - 🧩 **Edit Metadata**  
   Modify DICOM tags and values through an interactive table view.
@@ -39,25 +39,15 @@
 
 ## 📸 Screenshots
 
-| Main Interface | Batch Renaming Tool | DICOM Metadata Editor |
+| Main Interface | Batch Renaming Tool | DICOM Anynomizer |
 |:--:|:--:|:--:|
-| ![Main](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/main_interface.png) | ![Batch](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/batch_renamer.png) | ![Editor](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/dicom_anynon.png) |
+| ![Main](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/main_interface.png) | ![Batch](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/batch_renamer.png) | ![Editor](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/dicom_anyon.png) |
 
----
-
-## ❗ Notes
-
-- Currently, no external dependencies or installers are needed — just run the executable.
-- No sample DICOM files are included for privacy reasons.
 
 
 ## 📄 License
 
 Currently not licensed. Contact the author before commercial use.
 
----
-
-## 🙋‍♂️ Author
-
-Built by [Sagar Ghimire](https://github.com/sghmire) with ❤️ for medical imaging professionals.
+Built by [Sagar Ghimire](https://github.com/sghmire)
 
