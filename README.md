@@ -41,7 +41,7 @@
 
 | Main Interface | Batch Renaming Tool | DICOM Metadata Editor |
 |:--:|:--:|:--:|
-| ![Main](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/main_interface.png) | ![Batch](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/batch_renamer.png) | ![Editor](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/dicom_editor.png) |
+| ![Main](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/main_interface.png) | ![Batch](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/batch_renamer.png) | ![Editor](https://raw.githubusercontent.com/sghmire/DicomToolBox/main/ss/dicom_anynon.png) |
 
 ---
 
@@ -50,23 +50,6 @@
 - Currently, no external dependencies or installers are needed — just run the executable.
 - No sample DICOM files are included for privacy reasons.
 
----
-
-## 💡 Roadmap (Planned)
-
-- [ ] 3D Volume Viewer
-- [ ] Measurement tools (ROI, distance)
-- [ ] Export to JPEG/PNG
-- [ ] Crosshair navigation
-- [ ] Window Level / Width adjustment
-
----
-
-## 🤝 Contributions
-
-Contributions are welcome! Please fork the repo and open a pull request with your changes.
-
----
 
 ## 📄 License
 
